@@ -3,7 +3,7 @@
 Meu nome é Nicollas Oliveira 
 
 -Estou estudando na Alura
--Estoume desenvolvendo na linguagem JavaScript
+-Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e comportilhamento dos meus projetos desenvolvidos
 
 ### Para entrar em contato comigo📧
